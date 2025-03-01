@@ -17,3 +17,16 @@ Mostratr el poligono de mi barrio
 Buscar geojson de terceros
 cargar el geojson usando con leaflet
 
+#PROBLEMA 5
+Crear un botón y asignarle un manejador de eventos
+
+#PROBLEMA 6
+¿Donde está el geojson de los arboles de Bogotá?
+Estan en datos abiertos de Bogotá
+
+#PROBLEMA 7
+Crear el bounding box de mi barrio
+
+#PROBLEMA 8
+Descargar los datos filtrados desde la API (servicio REST)
+usar python
