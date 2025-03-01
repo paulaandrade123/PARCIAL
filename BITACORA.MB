@@ -3,3 +3,17 @@ CREAR UN REPOSITORIO LOCAL
 
 #PROBLEMA 2
 CREAR UN REPOSITORIO 
+sincronizar los repositorios
+configurar user.name y usr.email
+  
+#PROBLEMA 3
+Crear una pagina que muestre un mapa centrado en mi barrio
+utilizar una biblioteca de visor geografico: leaflet, openlayers, mapopen
+
+#PROBLEMA 4
+Mostratr el poligono de mi barrio
+
+# solucion
+Buscar geojson de terceros
+cargar el geojson usando con leaflet
+
